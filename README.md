@@ -42,12 +42,11 @@ Buka file `index.html` langsung di browser untuk melihat hasilnya.
 ## Link
 
 - **Original Webflow:** [https://ecowise18.webflow.io/](https://ecowise18.webflow.io/)
-- **Live Demo:** *(Segera hadir)*
 - **Source Code:** [GitHub Repository](https://github.com/rakhalord18/Ecowise)
 
 ## Kontributor
 
-- **Rakha Pratama Putra** - [LinkedIn](https://linkedin.com/in/rakhapratama) | [GitHub](https://github.com/rakhalord18)
+- **Rakha Pratama Putra** - [LinkedIn](https://linkedin.com/in/rakhapratamaputra) | [GitHub](https://github.com/rakhalord18)
 - **Tim VINIX 7** - EcoFuture Labs
 
 ## Catatan
